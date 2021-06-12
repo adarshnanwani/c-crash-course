@@ -22,6 +22,6 @@ int main()
     char name[20]; // char array of 20 chars. '\0' - null terminator is last char
     scanf("%19s", name);
 
-    printf("Your name: %s\n", name);
+    printf("Your name: %s \n", name);
     return 0;
 }
